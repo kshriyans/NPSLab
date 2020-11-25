@@ -1,1 +1,1 @@
-command execution in through client
+command execution in server through client
